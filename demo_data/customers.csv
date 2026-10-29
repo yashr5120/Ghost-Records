@@ -1,0 +1,25 @@
+customer_id,name,email,created_date,country,lifetime_spend
+CUST-101,Elena Rostova,elena.r@example.com,2023-01-15,US,450.0
+CUST-102,Marcus Vance,marcus.v@example.com,2023-02-10,UK,320.5
+CUST-103,Alice Smith,alice.smith@example.com,2023-03-01,CA,120.0
+CUST-103,Alice Smith,alice.smith@example.com,2023-03-01,CA,120.0
+CUST-104,David Kim,d.kim@example.com,2023-03-12,KR,890.0
+CUST-105,Bob Vance,bob@vancerefrig.com,2023-04-05,US,560.0
+CUST-105,Bob Vance Refrigeration,bob.corp@vancerefrig.com,2023-04-05,US,560.0
+CUST-106,Chloe Bennett,chloe.b@example.com,2023-04-20,GB,210.0
+CUST-107,Raj Patel,raj.patel@example.com,2023-05-11,IN,670.0
+CUST-108,Sofia Garcia,sofia.g@example.com,2023-06-01,ES,415.0
+CUST-109,Tariq Mansour,tariq.m@example.com,2023-06-18,AE,530.0
+CUST-110,Grace Hopper,,2023-07-04,US,750.0
+CUST-111,Ada Lovelace,,2023-07-15,UK,980.0
+CUST-112,Lucas Meyer,lucas.m@example.com,2023-08-01,DE,340.0
+CUST-113,Hannah Abbott,hannah.a@example.com,2023-08-19,US,280.0
+CUST-114,Kenji Sato,kenji.s@example.com,2023-09-02,JP,610.0
+CUST-115,Nora Thorne,nora.t@example.com,INVALID-DATE-9999,AU,190.0
+CUST-116,Leo Valenti,leo.v@example.com,2024/31/12,IT,420.0
+CUST-117,Ingrid Berg,ingrid.b@example.com,2023-10-10,SE,510.0
+CUST-118,Mateo Silva,mateo.s@example.com,2023-11-05,BR,390.0
+CUST-119,Amira Nour,amira.n@example.com,2023-11-28,EG,460.0
+CUST-120,Tycoon Ghost,tycoon@phantomcorp.io,2023-12-01,US,950000.0
+CUST-121,Liam Scott,liam.s@example.com,2023-12-14,NZ,310.0
+CUST-122,Yuki Tanaka,yuki.t@example.com,2024-01-08,JP,580.0

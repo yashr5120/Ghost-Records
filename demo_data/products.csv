@@ -1,0 +1,13 @@
+product_id,sku,title,unit_price,stock_quantity,is_active
+PROD-01,SKU-AUDIO-01,Ghost Echo Headphones,149.99,45,true
+PROD-02,SKU-AUDIO-02,Phantom Noise Mic,89.5,30,true
+PROD-03,SKU-PERIPH-01,Specter Mechanical Keyboard,129.0,60,true
+PROD-04,SKU-PERIPH-02,Wraith Gaming Mouse,69.99,80,true
+PROD-05,SKU-DISPLAY-01,"Banshee UltraWide 34""",499.0,15,true
+PROD-06,SKU-CABLE-01,Braided USB-C Cable 2m,19.99,200,true
+PROD-07,SKU-DESK-01,Haunted Oak Desk Mat,34.0,110,true
+PROD-08,,Cryptic Unlabeled Widget,25.0,50,true
+PROD-09,SKU-ERROR-09,Deficit Memory Stick,45.0,-15,true
+PROD-10,SKU-ERROR-10,Subsidized Promo Dongle,-49.99,25,false
+PROD-11,SKU-LIGHT-01,Apparition RGB Lightbar,79.99,40,true
+PROD-12,SKU-POWER-01,Poltergeist 100W GaN Charger,59.99,75,true
